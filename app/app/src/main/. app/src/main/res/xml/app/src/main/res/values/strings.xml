@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwiftTap</string>
+    <string name="service_desc">SwiftTap uses this service only to perform the taps you configure at the points you place on screen.</string>
+</resources>
